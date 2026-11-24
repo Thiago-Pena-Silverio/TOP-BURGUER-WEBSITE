@@ -1,54 +1,16 @@
-# TOP-BURGUER-WEBSITE
+# Top Burguer
 
-Web Development final exam project, restaurant website built with HTML, CSS, and JavaScript
+Top Burguer is a three-page website for a fictional burger restaurant. I built it as the final assessment for a web development module. The pages are written in Portuguese and share a CSS stylesheet.
 
-> ⚠️ **Note:** This project was developed for academic purposes and the content (page names and text) is written in Portuguese.
+## Explore the site
 
----
+- **[Home](Paginas/Index.html)** gives an overview of the restaurant and links to its menu and reviews.
+- **[Menu](Paginas/Cardapio.html)** lists each burger with its ingredients, including a vegetarian option.
+- **[Reviews](Paginas/Avalia%C3%A7%C3%B5es.html)** displays sample customer ratings.
 
-**Name of the site:** Top Burguer
+## Run locally
 
-🎓 **Context:**
+1. Choose **Code → Download ZIP** on this repository and extract the archive.
+2. Open `Paginas/Index.html` in a web browser. Keep the other pages, stylesheet and images together in the extracted folder.
 
-A multi-page restaurant website for a fictional burger restaurant called Top Burguer, developed as the final exam for the Web Development module. The goal was to apply HTML structure, CSS styling, and JavaScript interactivity to build a complete and functional website.
-
-📄 **Pages:**
-
-**Main Page:** Introduction to the restaurant, location, and key information
-
-**Menu:** Full menu listing all available burgers and their ingredients, including a vegetarian option
-
-**Reviews:** Customer reviews and ratings for the restaurant
-
-🛠️ **Tech Stack:**
-
-- HTML5
-- CSS3
-- JavaScript
-
-🎖️ **Features:**
-
-- Multi-page navigation 📋
-
-- Full menu with ingredients 🍔
-
-- Customer reviews section ⭐
-
-- Vegetarian option highlighted 🥗
-
----
-
-🖥️ **How to Run**
-
-**Requirements:**
-
-- Any modern web browser (Chrome, Firefox, Edge, etc.)
-- No installation needed
-
-**Instructions:** 💾
-
-1. Download: Click on Code → Download ZIP
-2. Extract: Unzip the file TOP-BURGUER-WEBSITE-main.zip
-3. Navigate to the project folder and open:
-   Index.html ← Double click here to open in your browser
-4. The site will open automatically in your default browser
+The site uses HTML and CSS and runs directly in a browser.
